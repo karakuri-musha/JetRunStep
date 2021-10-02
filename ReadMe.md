@@ -10,7 +10,6 @@ Jetson Nano Run Step Tool </br>
  Hardware : Ubuntu 18.04.5 LTS (Jetson Nano Developer Kit) </br>
  
 このツールはJetson Nano Developer KitのOSであるUbuntu18.04で、パッケージや環境設定のコマンドを順次自動実行できる機能と、インストール後のパッケージバージョンの更新状態を取得してXML構造で履歴管理する機能を、Pythonで実装したものです。</br>
-</br>
 
 This tool is Ubuntu 18.04, which is the OS of Jetson Nano Developer Kit, and has a function to automatically execute package and environment setting commands in sequence and a function to acquire the update status of the package version after installation and manage the history with XML structure. , Implemented in Python.</br>
  </br>
