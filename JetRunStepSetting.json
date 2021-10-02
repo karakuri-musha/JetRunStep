@@ -1,0 +1,8 @@
+{
+    "run_env"               : "2",
+    "env_trace_interval"    : "All",
+    "env_trace_output_dir"  : "./env_trace",
+    "env_trace_xml_file"    : "Env_trace.xml",
+    "env_browse_file"       : "Env_browse.html",
+    "max_log_cnt"           : "10",
+}
