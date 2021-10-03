@@ -101,10 +101,11 @@ If there are as many logs as the maximum number of completions when the tool is 
 ```
 cd <Tool Save Directory>
 ```
-２．ディレクトリにツールをコピーします。コピー後ツールディレクトリに移動します。</br>
+２．ディレクトリにツールをコピーします。コピー後ツールディレクトリに移動します。</br>移動後に一度実行して管理情報を作成します。</br>
 ```
 sudo git clone https://github.com/karakuri-musha/JetRunStep.git
 cd JetRunStep
+pyhon3 JetRunStep.py -i 'ls -l'
 ```
 ３-１．シェルコマンドを単体で実行する場合</br>
 　　　（例：Python3-pipをインストールする場合は以下のコマンドになります。）</br>
