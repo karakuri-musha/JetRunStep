@@ -1,0 +1,4 @@
+[
+    {"type":"cmd", "comment":"Execution [init ]", "cmd":"ls -l"},
+    {"type":"cmd", "comment":"Execution [pip3 install]", "cmd":"sudo apt install python3-pip"}
+]
